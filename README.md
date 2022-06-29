@@ -6,7 +6,7 @@
 
 I'm James McLeod, FINOS Director of Community at The Linux Foundation 😺 I am from Brighton in the United Kingdom and love to help people on their open source journey 🕶 🐳 🦀
 
-Get in touch to learn more about the [Fintech Open Source Foundation](https://www.finos.org/).
+Get in touch to learn more about the [Fintech Open Source Foundation](https://www.finos.org/) ✍🏻
 - https://github.com/finos/community/issues/new 
 
 ## 🌍 Communities

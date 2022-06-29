@@ -1,4 +1,4 @@
-## Hi, Welcome. It's great to meet you! 👋🏻
+## Hi, welcome. It's great to meet you! 👋🏻
 
 <img align='right' src='https://github.com/finos/branding/blob/master/finos-logos/icon-wordmark/FINOS_Icon_Wordmark_RGB.png?raw=true' width='200"'>
 
@@ -32,7 +32,7 @@ I contribute to "The Untold Stories of Open Source" podcast 🎶📣
 ## 🤜🏻⚡️🤛🏻 Lets connect 
 - FINOS - https://github.com/finos/community
 - LinkedIn - https://www.linkedin.com/in/jamesmcleod/
-- Join me on July 13th at the [FINOS Open Source in Finance Forum, London](https://events.linuxfoundation.org/open-source-finance-forum-london/?utm_campaign=OSFF%20London%202022&utm_source=jamesemail)
+- Join me on July 13th 2022 at the [FINOS Open Source in Finance Forum, London](https://events.linuxfoundation.org/open-source-finance-forum-london/?utm_campaign=OSFF%20London%202022&utm_source=jamesemail)
 
 
 ![James' github stats](https://github-readme-stats.vercel.app/api?username=mcleo-d&hide=["issues"]&show_icons=true)

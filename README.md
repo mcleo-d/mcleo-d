@@ -21,7 +21,7 @@ Talk to me about:
 - 🌥 Compliant Financial Infrastructure - https://github.com/finos/compliant-financial-infrastructure
 - ⛹🏻‍♀️ Open Source Readiness - https://github.com/finos/open-source-readiness/
 - 🔐 Regulation Innovation - https://github.com/finos/open-regtech-sig/
-- 🤖 DevOps Special Interest Group - https://github.com/finos/devops-mutualization
+- 🤖 DevOps Special Interest Group - https://github.com/finos/devops-automation
 - 🏎 Morphir - https://github.com/finos/morphir
 
 ## 👾 Linux Foundation Projects 

@@ -19,10 +19,12 @@ Get in touch to learn more about the [Fintech Open Source Foundation](https://ww
 ## ⚡️ FINOS Projects and SIGs
 Talk to me about:
 - 🌥 Compliant Financial Infrastructure - https://github.com/finos/compliant-financial-infrastructure
+- 🌥 Common Cloud Controls - https://github.com/finos/common-cloud-controls
 - ⛹🏻‍♀️ Open Source Readiness - https://github.com/finos/open-source-readiness/
 - 🔐 Regulation Innovation - https://github.com/finos/open-regtech-sig/
 - 🤖 DevOps Special Interest Group - https://github.com/finos/devops-automation
 - 🏎 Morphir - https://github.com/finos/morphir
+- 👽 Zenith - https://github.com/finos/zenith
 
 ## 👾 Linux Foundation Projects 
 I contribute to "The Untold Stories of Open Source" podcast 🎶📣

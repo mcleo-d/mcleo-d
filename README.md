@@ -2,10 +2,10 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-jamesmcleod-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jamesmcleod/)](https://www.linkedin.com/in/jamesmcleod/)
 
-I'm James McLeod 😺 I am from Brighton in the United Kingdom and love to help people on their open source journey 🕶 🐳 🦀
+I'm James McLeod 😺 I am the NatWest Group Open Source Program Lead from Brighton in the United Kingdom and love to help people on their open source journey 🕶 🐳 🦀
 
 ## 🌍 Communities
-- NatWest Open Source Program Lead.
+- NatWest Group Open Source Program Lead.
 - FINOS Director of Community.
 - FINOS Open Source in Finance Meetups (London and New York)
 - FINOS and Scott Logic Open Source Meetups (London, Edinburgh, Bristol and Leeds)

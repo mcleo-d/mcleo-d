@@ -5,6 +5,7 @@
 I'm James McLeod 😺 I am from Brighton in the United Kingdom and love to help people on their open source journey 🕶 🐳 🦀
 
 ## 🌍 Communities
+- NatWest Open Source Program Lead.
 - FINOS Director of Community.
 - FINOS Open Source in Finance Meetups (London and New York)
 - FINOS and Scott Logic Open Source Meetups (London, Edinburgh, Bristol and Leeds)

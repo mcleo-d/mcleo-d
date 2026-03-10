@@ -37,6 +37,3 @@ I have contributed to "The Untold Stories of Open Source" podcast 🎶📣
 - FINOS - https://github.com/finos/community
 - LinkedIn - https://www.linkedin.com/in/jamesmcleod/
 - Join me on July 13th 2022 at the [FINOS Open Source in Finance Forum, London](https://events.linuxfoundation.org/open-source-finance-forum-london/?utm_campaign=OSFF%20London%202022&utm_source=jamesemail)
-
-
-![James' github stats](https://github-readme-stats.vercel.app/api?username=mcleo-d&hide=["issues"]&show_icons=true)

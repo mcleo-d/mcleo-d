@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash .claude/hooks/sync-global-agents.sh",
+            "timeout": 30
+          }
+        ]
+      }
+    ]
+  }
+}

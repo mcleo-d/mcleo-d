@@ -1,0 +1,17 @@
+{
+  "name": "mcleo-d-profile-pipeline",
+  "version": "1.0.0",
+  "description": "Automated LinkedIn-to-profile pipeline for James McLeod's GitHub profile",
+  "type": "module",
+  "scripts": {
+    "update": "node scripts/update-profile.js",
+    "update:dry-run": "node scripts/update-profile.js --dry-run"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
+    "csv-parse": "^5.5.6"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

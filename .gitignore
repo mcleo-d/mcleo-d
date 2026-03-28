@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# LinkedIn CSV imports — NEVER commit these (may contain PII)
+imports/
+!imports/.gitkeep
+
+# All CSV files as belt-and-braces protection
+*.csv
+*.zip
+
+# Generated output files — contain profile data; committed only as local artefacts
+# after human review. To track these in git, remove these lines explicitly.
+outputs/github-bio.txt
+outputs/speaker-bio.md
+outputs/email-signature.txt
+outputs/devto-bio.md
+
+# Intermediate processing and debug files — never commit
+outputs/scratch/
+sanitised-profile.json
+risk-report.md
+*.processed.json
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db
